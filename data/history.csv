@@ -6576,3 +6576,13 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02ZBLJ10,glavna,Žabljak,29.08.2026 18:30,24.90,0.00,2.60,22,,16.0,859.0
 02LKOT20,klimatološka,Luka Kotor,29.08.2026 18:01,32.60,,0.40,,1.40,,
 02SCPO30,klimatološka,Šćepan Polje,29.08.2026 17:00,34.85,,,,,,
+02BAR010,glavna,Bar,29.08.2026 18:50,29.60,0.00,0.80,22,,33.5,1011.8
+02CTNJ10,glavna,Cetinje,29.08.2026 18:50,30.70,0.00,0.70,26,,38.4,941.9
+02HNOV10,glavna,Herceg Novi,29.08.2026 18:50,30.80,0.00,1.20,10,,31.5,1007.6
+02KOLS10,glavna,Kolašin,29.08.2026 18:50,25.70,0.00,2.50,2,,14.5,909.8
+02NIKS10,glavna,Nikšić,29.08.2026 18:50,32.10,0.00,2.50,26,,34.9,941.0
+02PDGR10,glavna,Podgorica,29.08.2026 18:50,34.20,0.00,2.50,14,,49.8,1005.2
+02PLJV10,glavna,Pljevlja,29.08.2026 18:50,25.30,0.00,2.80,4,,5.0,927.4
+02ULCN10,glavna,Ulcinj,29.08.2026 18:50,29.50,0.00,2.30,18,,57.8,1012.0
+02ZBLJ10,glavna,Žabljak,29.08.2026 18:50,24.40,0.00,1.10,22,,23.0,858.9
+02LKOT20,klimatološka,Luka Kotor,29.08.2026 18:16,32.90,,2.00,,3.30,,
