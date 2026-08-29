@@ -6453,3 +6453,23 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02ULCN10,glavna,Ulcinj,29.08.2026 16:50,31.00,0.00,6.60,22,,382.1,1012.0
 02ZBLJ10,glavna,Žabljak,29.08.2026 16:50,27.10,0.00,2.00,22,,187.9,858.7
 02LKOT20,klimatološka,Luka Kotor,29.08.2026 16:16,34.50,,1.10,,2.80,,
+02BAR010,glavna,Bar,29.08.2026 17:00,31.60,0.00,1.60,24,,317.0,1012.0
+02CTNJ10,glavna,Cetinje,29.08.2026 17:00,33.80,0.00,1.60,24,,328.5,941.8
+02HNOV10,glavna,Herceg Novi,29.08.2026 17:00,31.70,0.00,3.50,8,,322.0,1007.4
+02KOLS10,glavna,Kolašin,29.08.2026 17:00,31.70,0.00,2.60,22,,137.6,909.2
+02NIKS10,glavna,Nikšić,29.08.2026 17:00,35.00,0.00,3.30,26,,293.1,940.8
+02PDGR10,glavna,Podgorica,29.08.2026 17:00,37.80,0.00,2.40,12,,320.5,1004.7
+02PLJV10,glavna,Pljevlja,29.08.2026 17:00,33.80,0.00,1.10,28,,97.4,925.4
+02ULCN10,glavna,Ulcinj,29.08.2026 17:00,30.90,0.00,5.50,22,,354.5,1011.6
+02ZBLJ10,glavna,Žabljak,29.08.2026 17:00,26.80,0.00,6.60,22,11.60,176.0,858.7
+02DANL20,klimatološka,Danilovgrad,29.08.2026 17:00,38.00,,,,,,
+02LKOT20,klimatološka,Luka Kotor,29.08.2026 16:31,34.20,,1.20,,3.10,,
+02MAMO30,klimatološka,Manastir Morača,29.08.2026 17:00,37.55,,,,,,
+02MATE30,klimatološka,Matesevo,29.08.2026 17:00,29.89,0.00,,,,,
+02MOKR30,klimatološka,Mokro,29.08.2026 17:00,30.49,,,,,,
+02NJGV30,klimatološka,Njegovuđa,29.08.2026 17:00,28.06,,,,,,
+02POSC30,klimatološka,Pošćenje,29.08.2026 17:00,30.05,,,,,,
+02STAB30,klimatološka,Stabna,29.08.2026 17:00,32.08,,,,,,
+02STIT30,klimatološka,Štitarica,29.08.2026 17:00,22.01,,,,,,
+02VELK30,klimatološka,Velika,29.08.2026 17:00,32.05,,,,,,
+02VIRP20,klimatološka,Virpazar,29.08.2026 17:00,37.60,0.00,,,,,
