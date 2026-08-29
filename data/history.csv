@@ -5471,3 +5471,21 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02ULCN10,glavna,Ulcinj,29.08.2026 01:50,24.10,0.00,1.10,30,1.50,0.0,1013.5
 02ZBLJ10,glavna,Žabljak,29.08.2026 01:50,17.30,0.00,0.00,2,,1.0,860.1
 02LKOT20,klimatološka,Luka Kotor,29.08.2026 01:21,26.10,,0.70,,1.80,,
+02BAR010,glavna,Bar,29.08.2026 02:00,25.70,0.00,1.70,8,,1.5,1013.0
+02KOLS10,glavna,Kolašin,29.08.2026 02:00,16.50,0.00,0.20,2,,0.0,912.2
+02NIKS10,glavna,Nikšić,29.08.2026 02:00,22.50,0.00,1.30,32,,0.0,942.8
+02PDGR10,glavna,Podgorica,29.08.2026 02:00,27.50,0.00,0.70,2,,0.0,1007.7
+02PLJV10,glavna,Pljevlja,29.08.2026 02:00,18.00,0.00,0.70,28,,0.0,928.1
+02ULCN10,glavna,Ulcinj,29.08.2026 02:00,23.90,0.00,1.40,32,,0.8,1013.4
+02ZBLJ10,glavna,Žabljak,29.08.2026 02:00,18.10,0.00,0.50,6,,0.0,860.1
+02DANL20,klimatološka,Danilovgrad,29.08.2026 02:00,24.60,,,,,,
+02LKOT20,klimatološka,Luka Kotor,29.08.2026 01:36,26.40,,1.10,,1.70,,
+02MAMO30,klimatološka,Manastir Morača,29.08.2026 02:00,20.70,,,,,,
+02MATE30,klimatološka,Matesevo,29.08.2026 02:00,15.01,0.00,,,,,
+02MOKR30,klimatološka,Mokro,29.08.2026 02:00,15.07,,,,,,
+02NJGV30,klimatološka,Njegovuđa,29.08.2026 02:00,15.83,,,,,,
+02POSC30,klimatološka,Pošćenje,29.08.2026 02:00,16.03,,,,,,
+02STAB30,klimatološka,Stabna,29.08.2026 02:00,19.96,,,,,,
+02STIT30,klimatološka,Štitarica,29.08.2026 02:00,15.46,,,,,,
+02VELK30,klimatološka,Velika,29.08.2026 02:00,17.70,,,,,,
+02VIRP20,klimatološka,Virpazar,29.08.2026 02:00,23.90,0.00,,,,,
