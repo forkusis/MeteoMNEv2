@@ -6606,3 +6606,29 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02STIT30,klimatološka,Štitarica,29.08.2026 19:00,22.82,,,,,,
 02VELK30,klimatološka,Velika,29.08.2026 19:00,26.39,,,,,,
 02VIRP20,klimatološka,Virpazar,29.08.2026 19:00,35.40,0.00,,,,,
+02BAR010,glavna,Bar,29.08.2026 19:20,28.70,0.00,0.20,12,,6.6,1011.7
+02BERA20,glavna,Berane,29.08.2026 19:00,22.95,0.00,1.50,12,3.70,,937.73
+02CTNJ10,glavna,Cetinje,29.08.2026 19:20,29.00,0.00,0.00,24,,7.3,941.7
+02HNOV10,glavna,Herceg Novi,29.08.2026 19:20,29.40,0.00,0.40,24,,10.2,1007.4
+02KOLS10,glavna,Kolašin,29.08.2026 19:20,25.30,0.00,0.90,2,,7.5,909.9
+02NIKS10,glavna,Nikšić,29.08.2026 19:20,31.10,0.00,3.40,26,,10.6,941.1
+02PDGR10,glavna,Podgorica,29.08.2026 19:20,33.30,0.00,2.70,16,,6.9,1005.3
+02PLJV10,glavna,Pljevlja,29.08.2026 19:20,24.80,0.00,4.70,4,8.20,6.7,927.7
+02ULCN10,glavna,Ulcinj,29.08.2026 19:20,28.70,0.00,1.90,18,,4.8,1012.0
+02ZBLJ10,glavna,Žabljak,29.08.2026 19:20,23.80,0.00,2.30,20,,8.2,858.8
+02BIST20,klimatološka,Bistrica,29.08.2026 19:00,28.30,0.00,4.00,4,6.70,,
+02BOAN30,klimatološka,Boan,29.08.2026 19:00,27.30,,,,,,
+02BPLJ20,klimatološka,Bijelo Polje,29.08.2026 19:00,27.14,,,,,,
+02BUDV20,klimatološka,Budva,29.08.2026 19:00,30.29,,,,,,
+02CRKV30,klimatološka,Crkvice,29.08.2026 19:00,27.07,,,,,,
+02DDOB30,klimatološka,Donja Dobrilovina,29.08.2026 19:00,27.34,,,,,,
+02GOBU30,klimatološka,Gornja Bukovica,29.08.2026 19:00,24.62,,,,,,
+02GRAD30,klimatološka,Gradac,29.08.2026 19:00,26.40,,,,,,
+02IVKO30,klimatološka,Ivanova korita,29.08.2026 19:00,24.43,0.00,,,,,
+02KOSA30,klimatološka,Kosanica,29.08.2026 19:00,22.03,,,,,,
+02KUKO30,klimatološka,Kučka korita,29.08.2026 19:00,24.81,0.00,,,,,
+02LKOT20,klimatološka,Luka Kotor,29.08.2026 18:46,30.80,,0.50,,1.40,,
+02PLZN20,klimatološka,Pluzine,29.08.2026 19:00,29.87,0.00,1.90,18,4.50,,
+02STAB30,klimatološka,Stabna,29.08.2026 19:00,29.35,,,,,,
+02UBLI20,klimatološka,Ubli,29.08.2026 19:00,32.54,,,,,,
+02VELM20,klimatološka,Velimlje,29.08.2026 19:00,29.10,0.00,3.20,28,4.30,,
