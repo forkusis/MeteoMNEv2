@@ -7288,3 +7288,13 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02PLZN20,klimatološka,Pluzine,30.08.2026 05:00,17.28,0.00,0.50,12,1.40,,
 02UBLI20,klimatološka,Ubli,30.08.2026 05:00,21.85,,,,,,
 02VELM20,klimatološka,Velimlje,30.08.2026 05:00,16.30,0.00,0.40,4,1.00,,
+02BAR010,glavna,Bar,30.08.2026 05:30,24.90,0.00,1.30,4,,0.0,1013.0
+02CTNJ10,glavna,Cetinje,30.08.2026 05:30,15.60,0.00,0.40,8,,0.3,943.5
+02HNOV10,glavna,Herceg Novi,30.08.2026 05:30,23.60,0.00,0.20,24,,0.0,1009.0
+02KOLS10,glavna,Kolašin,30.08.2026 05:30,12.90,0.00,0.70,4,,0.0,912.0
+02NIKS10,glavna,Nikšić,30.08.2026 05:30,18.90,0.00,2.10,2,,0.5,943.1
+02PDGR10,glavna,Podgorica,30.08.2026 05:30,25.90,0.00,1.20,2,,0.0,1008.3
+02PLJV10,glavna,Pljevlja,30.08.2026 05:30,13.90,0.00,0.50,26,,0.7,928.6
+02ULCN10,glavna,Ulcinj,30.08.2026 05:30,24.80,0.00,2.70,6,,0.0,1013.4
+02ZBLJ10,glavna,Žabljak,30.08.2026 05:30,13.40,0.00,0.00,22,,0.0,859.1
+02LKOT20,klimatološka,Luka Kotor,30.08.2026 05:06,25.40,,0.60,,1.30,,
