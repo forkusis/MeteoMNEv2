@@ -7529,3 +7529,29 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02STIT30,klimatološka,Štitarica,30.08.2026 09:00,21.14,,,,,,
 02VELK30,klimatološka,Velika,30.08.2026 09:00,24.35,,,,,,
 02VIRP20,klimatološka,Virpazar,30.08.2026 09:00,28.60,0.00,,,,,
+02BAR010,glavna,Bar,30.08.2026 09:20,30.00,0.00,1.30,22,,448.0,1013.6
+02BERA20,glavna,Berane,30.08.2026 09:00,20.74,0.00,0.60,24,1.50,,939.82
+02CTNJ10,glavna,Cetinje,30.08.2026 09:20,26.40,0.00,0.50,18,,439.1,943.6
+02HNOV10,glavna,Herceg Novi,30.08.2026 09:20,30.10,0.00,2.10,8,3.00,449.0,1009.4
+02KOLS10,glavna,Kolašin,30.08.2026 09:20,19.60,0.00,0.50,2,,126.4,912.0
+02NIKS10,glavna,Nikšić,30.08.2026 09:20,25.30,0.00,1.70,22,,474.9,943.1
+02PDGR10,glavna,Podgorica,30.08.2026 09:20,30.40,0.00,0.20,24,,445.5,1008.6
+02PLJV10,glavna,Pljevlja,30.08.2026 09:20,20.80,0.00,1.30,14,1.70,500.7,928.9
+02ULCN10,glavna,Ulcinj,30.08.2026 09:20,30.70,0.00,4.00,8,,456.0,1014.0
+02ZBLJ10,glavna,Žabljak,30.08.2026 09:20,22.00,0.00,1.20,28,,505.4,859.6
+02BIST20,klimatološka,Bistrica,30.08.2026 09:00,17.10,0.00,0.40,8,0.70,,
+02BOAN30,klimatološka,Boan,30.08.2026 09:00,19.40,,,,,,
+02BPLJ20,klimatološka,Bijelo Polje,30.08.2026 09:00,18.22,,,,,,
+02BUDV20,klimatološka,Budva,30.08.2026 09:00,28.74,,,,,,
+02CRKV30,klimatološka,Crkvice,30.08.2026 09:00,24.63,,,,,,
+02DDOB30,klimatološka,Donja Dobrilovina,30.08.2026 09:00,19.11,,,,,,
+02GOBU30,klimatološka,Gornja Bukovica,30.08.2026 09:00,20.64,,,,,,
+02GRAD30,klimatološka,Gradac,30.08.2026 09:00,17.23,,,,,,
+02IVKO30,klimatološka,Ivanova korita,30.08.2026 09:00,25.21,0.00,,,,,
+02KOSA30,klimatološka,Kosanica,30.08.2026 09:00,22.76,,,,,,
+02KOVR30,klimatološka,Kovren,30.08.2026 09:00,20.21,0.00,,,,,
+02KUKO30,klimatološka,Kučka korita,30.08.2026 09:00,23.51,0.00,,,,,
+02LKOT20,klimatološka,Luka Kotor,30.08.2026 08:46,27.20,,,,,,
+02PLZN20,klimatološka,Pluzine,30.08.2026 09:00,20.80,0.00,0.40,28,1.20,,
+02UBLI20,klimatološka,Ubli,30.08.2026 09:00,27.18,,,,,,
+02VELM20,klimatološka,Velimlje,30.08.2026 09:00,21.80,0.00,0.60,32,1.00,,
