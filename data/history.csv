@@ -7930,3 +7930,29 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02STIT30,klimatološka,Štitarica,30.08.2026 15:00,28.82,,,,,,
 02VELK30,klimatološka,Velika,30.08.2026 15:00,30.05,,,,,,
 02VIRP20,klimatološka,Virpazar,30.08.2026 15:00,37.10,0.00,,,,,
+02BAR010,glavna,Bar,30.08.2026 15:20,31.70,0.00,1.40,22,,581.6,1012.4
+02BERA20,glavna,Berane,30.08.2026 15:00,32.27,0.00,1.30,30,3.10,,937.02
+02CTNJ10,glavna,Cetinje,30.08.2026 15:20,32.80,0.00,1.00,20,,604.3,941.8
+02HNOV10,glavna,Herceg Novi,30.08.2026 15:20,32.40,0.00,1.90,10,,595.9,1008.2
+02KOLS10,glavna,Kolašin,30.08.2026 15:20,30.30,0.00,1.00,6,,601.2,910.0
+02NIKS10,glavna,Nikšić,30.08.2026 15:20,32.00,0.00,7.80,14,,463.6,940.8
+02PDGR10,glavna,Podgorica,30.08.2026 15:20,37.30,0.00,0.70,16,,578.0,1005.6
+02PLJV10,glavna,Pljevlja,30.08.2026 15:20,30.80,0.00,3.30,2,,260.7,926.4
+02ULCN10,glavna,Ulcinj,30.08.2026 15:20,32.60,0.00,4.10,22,,632.5,1012.4
+02ZBLJ10,glavna,Žabljak,30.08.2026 15:20,25.80,0.00,3.20,24,4.90,153.9,858.6
+02BIST20,klimatološka,Bistrica,30.08.2026 15:00,29.70,0.00,2.10,2,3.90,,
+02BOAN30,klimatološka,Boan,30.08.2026 15:00,30.07,,,,,,
+02BPLJ20,klimatološka,Bijelo Polje,30.08.2026 15:00,32.45,,,,,,
+02BUDV20,klimatološka,Budva,30.08.2026 15:00,31.26,,,,,,
+02CRKV30,klimatološka,Crkvice,30.08.2026 15:00,26.76,,,,,,
+02DDOB30,klimatološka,Donja Dobrilovina,30.08.2026 15:00,29.44,,,,,,
+02GOBU30,klimatološka,Gornja Bukovica,30.08.2026 15:00,27.30,,,,,,
+02GRAD30,klimatološka,Gradac,30.08.2026 15:00,33.43,,,,,,
+02IVKO30,klimatološka,Ivanova korita,30.08.2026 15:00,26.69,0.00,,,,,
+02KOSA30,klimatološka,Kosanica,30.08.2026 15:00,27.38,,,,,,
+02KOVR30,klimatološka,Kovren,30.08.2026 15:00,27.70,0.00,,,,,
+02KUKO30,klimatološka,Kučka korita,30.08.2026 15:00,26.94,0.00,,,,,
+02LKOT20,klimatološka,Luka Kotor,30.08.2026 14:46,31.80,,0.40,,1.90,,
+02PLZN20,klimatološka,Pluzine,30.08.2026 15:00,33.77,0.00,3.70,26,8.20,,
+02UBLI20,klimatološka,Ubli,30.08.2026 15:00,33.77,,,,,,
+02VELM20,klimatološka,Velimlje,30.08.2026 15:00,30.70,0.00,2.10,32,2.70,,
