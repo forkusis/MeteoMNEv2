@@ -10565,3 +10565,29 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02PDGR10,glavna,Podgorica,01.09.2026 06:40,25.30,0.00,,30,,23.3,1008.4
 02PLJV10,glavna,Pljevlja,01.09.2026 06:40,13.40,0.00,1.20,20,,26.3,929.1
 02LKOT20,klimatološka,Luka Kotor,01.09.2026 06:06,25.00,,1.10,,2.20,,
+02BAR010,glavna,Bar,01.09.2026 08:20,28.10,0.00,2.40,,,249.5,1013.9
+02BERA20,glavna,Berane,01.09.2026 08:00,18.05,0.00,0.30,32,0.80,,939.99
+02CTNJ10,glavna,Cetinje,01.09.2026 08:20,19.50,0.00,0.40,,,16.4,943.5
+02HNOV10,glavna,Herceg Novi,01.09.2026 08:20,28.10,0.00,1.00,,2.00,24.5,1009.4
+02KOLS10,glavna,Kolašin,01.09.2026 08:20,15.80,0.00,0.70,,,18.3,912.0
+02NIKS10,glavna,Nikšić,01.09.2026 08:20,20.70,0.00,0.80,,,14.8,942.8
+02PDGR10,glavna,Podgorica,01.09.2026 08:20,27.50,0.00,0.60,,,23.3,1008.4
+02PLJV10,glavna,Pljevlja,01.09.2026 08:20,17.20,0.00,0.90,,,26.3,929.1
+02ULCN10,glavna,Ulcinj,01.09.2026 08:20,27.50,0.00,2.10,,,15.0,1013.7
+02ZBLJ10,glavna,Žabljak,01.09.2026 08:20,17.70,0.00,2.60,,,15.8,859.1
+02BIST20,klimatološka,Bistrica,01.09.2026 08:00,13.60,0.00,0.40,14,0.70,,
+02BOAN30,klimatološka,Boan,01.09.2026 08:00,11.98,,,,,,
+02BPLJ20,klimatološka,Bijelo Polje,01.09.2026 08:00,15.55,,,,,,
+02BUDV20,klimatološka,Budva,01.09.2026 08:00,27.54,,,,,,
+02CRKV30,klimatološka,Crkvice,01.09.2026 08:00,18.85,,,,,,
+02DANL20,klimatološka,Danilovgrad,01.09.2026 08:00,25.20,,,,,,
+02LKOT20,klimatološka,Luka Kotor,01.09.2026 07:46,26.30,,0.50,,0.90,,
+02MATE30,klimatološka,Matesevo,01.09.2026 08:00,16.21,0.00,,,,,
+02MOKR30,klimatološka,Mokro,01.09.2026 08:00,15.17,,,,,,
+02NJGV30,klimatološka,Njegovuđa,01.09.2026 08:00,17.12,,,,,,
+02POSC30,klimatološka,Pošćenje,01.09.2026 08:00,15.04,,,,,,
+02SCPO30,klimatološka,Šćepan Polje,01.09.2026 08:00,15.85,,,,,,
+02STAB30,klimatološka,Stabna,01.09.2026 08:00,18.68,,,,,,
+02STIT30,klimatološka,Štitarica,01.09.2026 08:00,16.02,,,,,,
+02VELK30,klimatološka,Velika,01.09.2026 08:00,19.36,,,,,,
+02VIRP20,klimatološka,Virpazar,01.09.2026 08:00,25.20,0.00,,,,,
