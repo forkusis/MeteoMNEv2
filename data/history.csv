@@ -12086,3 +12086,30 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02ULCN10,glavna,Ulcinj,02.09.2026 09:50,32.30,0.00,5.80,6,,569.4,1015.5
 02ZBLJ10,glavna,Žabljak,02.09.2026 09:50,18.80,0.00,0.70,4,,565.6,861.3
 02LKOT20,klimatološka,Luka Kotor,02.09.2026 09:21,29.20,,0.60,,2.00,,
+02BAR010,glavna,Bar,02.09.2026 10:10,29.70,0.00,1.80,24,,583.0,1015.5
+02BERA20,glavna,Berane,02.09.2026 10:00,22.92,0.00,1.10,22,2.60,,941.83
+02CTNJ10,glavna,Cetinje,02.09.2026 10:10,28.60,0.00,0.60,4,,611.7,945.0
+02HNOV10,glavna,Herceg Novi,02.09.2026 10:10,30.70,0.00,1.70,10,,609.8,1011.3
+02KOLS10,glavna,Kolašin,02.09.2026 10:10,22.40,0.00,,,,590.8,913.7
+02NIKS10,glavna,Nikšić,02.09.2026 10:10,28.40,0.00,1.00,18,,597.6,944.3
+02PDGR10,glavna,Podgorica,02.09.2026 10:10,32.50,0.00,0.80,24,,599.1,1010.0
+02PLJV10,glavna,Pljevlja,02.09.2026 10:10,23.30,0.00,1.40,20,,596.8,931.0
+02ULCN10,glavna,Ulcinj,02.09.2026 10:10,32.80,0.00,5.20,6,,620.8,1015.5
+02ZBLJ10,glavna,Žabljak,02.09.2026 10:00,18.80,0.00,1.10,6,,597.2,861.3
+02BIST20,klimatološka,Bistrica,02.09.2026 10:00,21.20,0.00,1.00,32,1.90,,
+02BPLJ20,klimatološka,Bijelo Polje,02.09.2026 10:00,21.94,,,,,,
+02BUDV20,klimatološka,Budva,02.09.2026 10:00,29.95,,,,,,
+02DANL20,klimatološka,Danilovgrad,02.09.2026 10:00,29.20,,,,,,
+02LKOT20,klimatološka,Luka Kotor,02.09.2026 09:41,29.10,,1.10,,1.50,,
+02MATE30,klimatološka,Matesevo,02.09.2026 10:00,23.19,0.00,,,,,
+02MOKR30,klimatološka,Mokro,02.09.2026 10:00,22.81,,,,,,
+02NJGV30,klimatološka,Njegovuđa,02.09.2026 10:00,19.42,,,,,,
+02PLZN20,klimatološka,Pluzine,02.09.2026 10:00,22.52,0.00,1.80,4,3.50,,
+02POSC30,klimatološka,Pošćenje,02.09.2026 10:00,24.31,,,,,,
+02SCPO30,klimatološka,Šćepan Polje,02.09.2026 10:00,22.24,,,,,,
+02STAB30,klimatološka,Stabna,02.09.2026 10:00,23.19,,,,,,
+02STIT30,klimatološka,Štitarica,02.09.2026 10:00,20.81,,,,,,
+02UBLI20,klimatološka,Ubli,02.09.2026 10:00,28.23,,,,,,
+02VELK30,klimatološka,Velika,02.09.2026 10:00,23.16,,,,,,
+02VELM20,klimatološka,Velimlje,02.09.2026 10:00,25.70,0.00,1.10,30,1.70,,
+02VIRP20,klimatološka,Virpazar,02.09.2026 10:00,32.10,0.00,,,,,
