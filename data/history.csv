@@ -12153,3 +12153,7 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02VELK30,klimatološka,Velika,02.09.2026 11:00,26.59,,,,,,
 02VELM20,klimatološka,Velimlje,02.09.2026 11:00,28.30,0.00,3.20,22,4.30,,
 02VIRP20,klimatološka,Virpazar,02.09.2026 11:00,33.30,0.00,,,,,
+02CTNJ10,glavna,Cetinje,02.09.2026 11:20,30.50,0.00,0.70,10,,777.4,945.0
+02NIKS10,glavna,Nikšić,02.09.2026 11:20,30.20,0.00,2.60,12,,760.3,944.1
+02PDGR10,glavna,Podgorica,02.09.2026 11:20,33.40,0.00,2.20,26,,726.7,1009.8
+02LKOT20,klimatološka,Luka Kotor,02.09.2026 10:51,30.10,,2.50,,3.40,,
