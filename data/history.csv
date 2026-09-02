@@ -11989,3 +11989,23 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02PLZN20,klimatološka,Pluzine,02.09.2026 06:00,16.26,0.00,0.40,,,,
 02UBLI20,klimatološka,Ubli,02.09.2026 06:00,20.38,,,,,,
 02VELM20,klimatološka,Velimlje,02.09.2026 06:00,13.90,0.00,0.30,24,0.40,,
+02BAR010,glavna,Bar,02.09.2026 08:40,29.00,0.00,0.80,22,,343.9,1015.1
+02CTNJ10,glavna,Cetinje,02.09.2026 08:40,19.70,0.00,0.00,20,,133.3,944.7
+02HNOV10,glavna,Herceg Novi,02.09.2026 08:40,30.10,0.00,0.30,10,,357.6,1011.1
+02KOLS10,glavna,Kolašin,02.09.2026 08:40,18.40,0.00,0.80,2,,145.1,913.8
+02NIKS10,glavna,Nikšić,02.09.2026 08:40,24.80,0.00,1.70,30,,370.6,944.2
+02PDGR10,glavna,Podgorica,02.09.2026 08:40,29.80,0.00,4.80,2,,360.8,1009.8
+02PLJV10,glavna,Pljevlja,02.09.2026 08:40,17.80,0.00,0.70,10,,318.3,931.4
+02ULCN10,glavna,Ulcinj,02.09.2026 08:40,29.20,0.00,5.70,6,,365.1,1015.2
+02ZBLJ10,glavna,Žabljak,02.09.2026 08:40,17.10,0.00,1.30,2,,376.3,861.1
+02LKOT20,klimatološka,Luka Kotor,02.09.2026 08:06,27.60,,0.40,,0.70,,
+02NJGV30,klimatološka,Njegovuđa,02.09.2026 08:00,13.73,,,,,,
+02PLZN20,klimatološka,Pluzine,02.09.2026 08:00,16.86,0.00,0.80,,3.00,,
+02POSC30,klimatološka,Pošćenje,02.09.2026 08:00,16.73,,,,,,
+02SCPO30,klimatološka,Šćepan Polje,02.09.2026 08:00,13.60,,,,,,
+02STAB30,klimatološka,Stabna,02.09.2026 08:00,18.00,,,,,,
+02STIT30,klimatološka,Štitarica,02.09.2026 08:00,15.44,,,,,,
+02UBLI20,klimatološka,Ubli,02.09.2026 08:00,23.94,,,,,,
+02VELK30,klimatološka,Velika,02.09.2026 08:00,16.60,,,,,,
+02VELM20,klimatološka,Velimlje,02.09.2026 08:00,16.80,0.00,0.40,,0.70,,
+02VIRP20,klimatološka,Virpazar,02.09.2026 08:00,23.60,0.00,,,,,
