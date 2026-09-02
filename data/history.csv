@@ -12127,3 +12127,8 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02PDGR10,glavna,Podgorica,02.09.2026 10:40,32.70,0.00,1.20,20,,665.0,1009.8
 02ULCN10,glavna,Ulcinj,02.09.2026 10:40,33.80,0.00,6.00,6,,686.4,1015.4
 02LKOT20,klimatološka,Luka Kotor,02.09.2026 10:06,29.80,,1.80,,2.70,,
+02CTNJ10,glavna,Cetinje,02.09.2026 10:50,29.30,0.00,0.90,6,,699.9,945.0
+02HNOV10,glavna,Herceg Novi,02.09.2026 10:50,31.70,0.00,3.40,10,4.70,695.5,1011.5
+02NIKS10,glavna,Nikšić,02.09.2026 10:50,29.70,0.00,4.10,14,,702.6,944.2
+02PDGR10,glavna,Podgorica,02.09.2026 10:50,32.90,0.00,0.90,20,,682.2,1009.9
+02LKOT20,klimatološka,Luka Kotor,02.09.2026 10:21,30.00,,2.50,,2.70,,
