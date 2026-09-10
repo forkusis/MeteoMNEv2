@@ -25314,3 +25314,13 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02VELK30,klimatološka,Velika,11.09.2026 00:00,13.77,,,,,,
 02VELM20,klimatološka,Velimlje,11.09.2026 00:00,16.90,0.00,0.90,14,1.20,,
 02VIRP20,klimatološka,Virpazar,11.09.2026 00:00,19.80,0.00,,,,,
+02BAR010,glavna,Bar,11.09.2026 00:20,24.90,0.00,2.20,12,,0.7,1014.0
+02CTNJ10,glavna,Cetinje,11.09.2026 00:20,14.90,0.00,0.10,32,,0.2,943.9
+02HNOV10,glavna,Herceg Novi,11.09.2026 00:20,23.60,0.00,0.40,26,,0.0,1009.9
+02KOLS10,glavna,Kolašin,11.09.2026 00:20,12.90,0.00,1.00,24,1.10,0.5,912.5
+02NIKS10,glavna,Nikšić,11.09.2026 00:20,19.20,0.00,1.30,30,,0.0,943.1
+02PDGR10,glavna,Podgorica,11.09.2026 00:20,25.50,0.00,0.90,2,,0.8,1008.8
+02PLJV10,glavna,Pljevlja,11.09.2026 00:20,15.90,0.00,0.70,4,0.80,0.0,928.2
+02ULCN10,glavna,Ulcinj,11.09.2026 00:20,20.40,0.00,1.40,2,1.50,0.0,1014.5
+02ZBLJ10,glavna,Žabljak,11.09.2026 00:20,12.90,0.00,1.40,22,,0.7,859.3
+02LKOT20,klimatološka,Luka Kotor,10.09.2026 23:51,23.70,,0.00,,0.90,,
