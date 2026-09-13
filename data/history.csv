@@ -29136,3 +29136,14 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02VELK30,klimatološka,Velika,13.09.2026 11:00,14.87,,,,,,
 02VELM20,klimatološka,Velimlje,13.09.2026 11:00,20.20,0.00,2.50,14,4.10,,
 02VIRP20,klimatološka,Virpazar,13.09.2026 11:00,24.70,0.00,,,,,
+02BAR010,glavna,Bar,13.09.2026 12:00,27.00,0.00,5.30,4,,734.2,1017.3
+02CTNJ10,glavna,Cetinje,13.09.2026 12:00,22.10,0.00,0.40,20,,789.5,945.7
+02HNOV10,glavna,Herceg Novi,13.09.2026 12:00,28.40,0.00,3.20,10,,802.6,1012.7
+02KOLS10,glavna,Kolašin,13.09.2026 12:00,16.90,0.00,2.50,32,,802.0,914.2
+02NIKS10,glavna,Nikšić,13.09.2026 12:00,21.70,0.00,7.10,4,,815.0,944.8
+02PDGR10,glavna,Podgorica,13.09.2026 12:00,26.00,0.00,5.90,2,,781.8,1012.2
+02PLJV10,glavna,Pljevlja,13.09.2026 12:00,18.10,0.00,1.50,2,,626.3,931.9
+02ULCN10,glavna,Ulcinj,13.09.2026 12:00,27.50,0.00,7.70,6,,801.8,1017.7
+02ZBLJ10,glavna,Žabljak,13.09.2026 12:00,13.20,0.00,0.70,30,,163.6,860.5
+02LKOT20,klimatološka,Luka Kotor,13.09.2026 11:26,26.20,,4.20,,7.10,,
+02MAMO30,klimatološka,Manastir Morača,13.09.2026 12:00,24.34,,,,,,
