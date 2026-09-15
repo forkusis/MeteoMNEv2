@@ -33145,3 +33145,13 @@ sifra,tip,stanica,datum_vrijeme,T,RR,vjetar,smjer_kod,udar,insolacija,pritisak
 02VELK30,klimatološka,Velika,16.09.2026 01:00,10.03,,,,,,
 02VELM20,klimatološka,Velimlje,16.09.2026 01:00,9.80,0.00,0.30,10,0.60,,
 02VIRP20,klimatološka,Virpazar,16.09.2026 01:00,15.60,0.00,,,,,
+02BAR010,glavna,Bar,16.09.2026 01:20,24.00,0.00,5.90,6,,0.9,1014.3
+02CTNJ10,glavna,Cetinje,16.09.2026 01:20,11.20,0.00,0.40,32,,0.0,944.0
+02HNOV10,glavna,Herceg Novi,16.09.2026 01:20,18.50,0.00,1.40,24,,0.0,1010.6
+02KOLS10,glavna,Kolašin,16.09.2026 01:20,9.10,0.00,0.40,32,,0.0,912.4
+02NIKS10,glavna,Nikšić,16.09.2026 01:20,15.50,0.00,1.60,2,,0.2,943.5
+02PDGR10,glavna,Podgorica,16.09.2026 01:20,22.50,0.00,2.30,28,5.70,0.2,1009.6
+02PLJV10,glavna,Pljevlja,16.09.2026 01:20,9.20,0.00,0.70,18,,1.0,930.3
+02ULCN10,glavna,Ulcinj,16.09.2026 01:20,21.50,0.00,4.40,6,,0.0,1014.7
+02ZBLJ10,glavna,Žabljak,16.09.2026 01:20,7.50,0.00,0.50,22,,0.0,858.8
+02LKOT20,klimatološka,Luka Kotor,16.09.2026 00:46,21.90,,1.00,,2.10,,
